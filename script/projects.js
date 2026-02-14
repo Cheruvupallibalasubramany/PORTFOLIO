@@ -6,8 +6,8 @@ const projects=[
     leavel:"Medium",
     desc:"Developed a full-stack e-commerce application using Java and Spring Boot, implementing RESTful APIs for product management, user authentication, and order. ",
     tech:[  "Java","Springboot","SQL","REST APIs"],
-    git:"https://github.com/JayavardhanGundala/CRUD-MERN-stack",
-    demo:"f",
+    git:"#",
+    demo:"#",
     featured:true
 
 },
@@ -18,8 +18,8 @@ const projects=[
     leavel:"Hard",
     desc:"In today’s digital world, secure chat applications protect conversations from unauthorized access. This presentation explains how to build a strong, encrypted messaging platform.",
     tech:["HTML","CSS","JAVASCRIPT","React",],
-    git:"https://github.com/JayavardhanGundala/Typing-Speed-Test",
-    demo:"https://typing-speed-test-vert-five.vercel.app/",
+    git:"#",
+    demo:"#",
     featured:true
     
 },
@@ -30,8 +30,8 @@ const projects=[
     leavel:"Medium",
     desc:"Meal recipe finder that suggests dishes based on user-entered ingredients.",
     tech:["HTML","CSS","JAVASCRIPT",],
-    git:"https://github.com/JayavardhanGundala/Meal-recipe",
-    demo:"https://meal-recipe-iota.vercel.app/",
+    git:"#",
+    demo:"#",
     featured:false
     
 },
@@ -42,8 +42,8 @@ const projects=[
     leavel:"Medium",
     desc:"Built an AI-powered movie recommendation engine using collaborative filtering and content-based filtering techniques to deliver personalised suggestions",
     tech:["Python","TensorFlow","Numpy"," Pandas",],
-    git:"https://github.com/JayavardhanGundala/gemini-bot",
-    demo:"https://gemini-bot-blue.vercel.app/",
+    git:"#",
+    demo:"#",
     featured:true
     
 },
@@ -54,8 +54,8 @@ const projects=[
     leavel:"medium",
     desc:"A Node.js and Express backend project demonstrating user authentication (Express,MongoDB)",
      tech:["React","Node js","Express JS","Tailwind CSS","JWT Authentication"],
-     git:"https://github.com/JayavardhanGundala/Authentication",
-      demo:"https://jayavardhangundalaportfolii.vercel.app/",
+     git:"#",
+      demo:"#",
 
     featured:false
     
